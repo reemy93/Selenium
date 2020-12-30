@@ -44,7 +44,7 @@ this will allow the interface with maven
 
 the testcases : 
 
-*test cases are in class Reemy In java/test/ and under the package rahulshettyacademy 
+*test cases are in class Reemy - WibbitzHub/src/test/java/rahulshettyacademy/Mavenjava/Reemy
 
 Main testcase is the Login procedure 
 clicks on Templates and picks the first video and plays it 
@@ -92,5 +92,4 @@ there might be dead classes\code . sorry :)
 ## Author
 
 * **Reemy Naseraldden** 
-
 
