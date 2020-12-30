@@ -44,6 +44,8 @@ this will allow the interface with maven
 
 the testcases : 
 
+*test cases are in class Reemy In java/test/ and under the package rahulshettyacademy 
+
 Main testcase is the Login procedure 
 clicks on Templates and picks the first video and plays it 
 closes the video 
@@ -74,7 +76,8 @@ it seems like the intercom can respond a limited number of times .
 
 * i created this project yesterday as a part of my learning process in the selenium course and added the test cases to it ,
 there might be dead classes\code . sorry :) 
-
+ 
+ 
 ## Built With
 
 *[Eclipse](https://www.oracle.com/) - Editor
@@ -89,6 +92,5 @@ there might be dead classes\code . sorry :)
 ## Author
 
 * **Reemy Naseraldden** 
-
 
 
